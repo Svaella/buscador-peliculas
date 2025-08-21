@@ -23,15 +23,6 @@ Un buscador web de películas que utiliza la [OMDb API](http://www.omdbapi.com/)
 
 ---
 
-## 📷 Capturas
-
-### Modo claro
-![Modo Claro](assets/modo-claro.png)
-
-### Modo oscuro
-![Modo Oscuro](assets/modo-oscuro.png)
-
----
 
 ## 📦 Instalación y uso
 
