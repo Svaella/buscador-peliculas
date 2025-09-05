@@ -48,4 +48,4 @@ Regístrate en http://www.omdbapi.com/apikey.aspx para obtener una API Key gratu
 En el archivo script.js, reemplaza la constante:
 
 javascript
-const apiKey = "TU_API_KEY"; // coloca tu clave aqu
+const apiKey = "TU_API_KEY"; // coloca tu clave aquÍ
